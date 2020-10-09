@@ -1,15 +1,4 @@
-title {
-  font-size: 3em;
-  color: #33485e
-  text-align: center;
-  
-}
-
-p {
-  font-family: open-sans, arial, sans-serif;
-  font-size: 1em;
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
   color: #444;
-  font-weight: 400;
-
-
 }
