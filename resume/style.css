@@ -1,9 +1,13 @@
+/*styles for my resume*/
+
+/*body font*/
 body {
   font-family: 'Open Sans', arial, sans-serif;
   color:#444;
   font-weight:400;
 }
 
+/*name*/
 h1 {
   color:#33485e;
   text-transform:uppercase;
@@ -11,16 +15,41 @@ h1 {
   font-size:3em;
 }
 
+/*Student*/
 strong{
   color:#33485e
   text-transform:uppercase;
   font-size:1.5em;
 }
 
+/*headings*/
 h2 {
   font-size:1.5em
   text-transform:uppercase;
-  background-color:#33485e
+  background-color:#33485e;
   color:#ffffff;
   font-weight:400;
+}
+
+/*job titles*/
+h3 {
+  font-weight:600;
+  font-size:1.5em;
+}
+
+/*orgs*/
+h4 {
+  font-weight:400;
+  font-size:1.5em;
+}
+
+/*dates*/
+h5 {
+  font-weight:400;
+  font-size:1em;
+  font-style:italic;
+}
+
+ul {
+  font-size:1em;
 }
