@@ -6,6 +6,21 @@ body {
 
 h1 {
   color:#33485e;
-  text-decoration:uppercase;
+  text-transform:uppercase;
   text-align:center;
+  font-size:3em;
+}
+
+strong{
+  color:#33485e
+  text-transform:uppercase;
+  font-size:1.5em;
+}
+
+h2 {
+  font-size:1.5em
+  text-transform:uppercase;
+  background-color:#33485e
+  color:#ffffff;
+  font-weight:400;
 }
