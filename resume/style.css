@@ -1,8 +1,9 @@
 head {
   font-size: 3em;
-  font-color: #33485e
-  text-align: center;
-  
+  color: #33485e
+  text: center
+  text: uppercase
+
 }
 
 p {
