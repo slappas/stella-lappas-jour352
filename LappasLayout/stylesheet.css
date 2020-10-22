@@ -12,6 +12,12 @@ body {
   text-align: right;
 }
 
+#content {
+  margin: 0 auto;
+  width: 900px;
+  text-size:2em;
+}
+
 .masthead {
   margin: 0 auto;
   width: 900px;
@@ -24,36 +30,20 @@ body {
   margin-right:0;
 }
 
-.headline {
-  font-size:1.5em;
-  font-weight:400;
-  margin-top:20px;
-  margin-bottom:10px;
-  margin-left:0;
-  margin-right:0;
-  width:70%;
-  min-width:300px;
-}
-
-#content {
-  margin: 0 auto;
-  width: 900px;
-  text-size:2em;
-  font-family: 'Bitter', serif;
-}
-
 p {
   font-family: 'Bitter', serif;
   margin: 0 auto;
   width: 900px;
-  text-size:2em;
+  text-size:1em;
 }
 
 
 .headline {
+  font-family: 'Bitter', serif;
   text-transform:uppercase;
-  font-size:1em;
-  font-weight:400;
+  font-size:2em;
+  font-weight:600;
+  font-style: italic;
   text-align:center;
   margin-top:20px;
   margin-bottom:0;
