@@ -1,9 +1,21 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
-#masthead {
+body {
+  font-family: 'Bitter', serif;
+  color:#444;
+  font-weight:400;
+}
+
+.title {
+  text-size:3em;
+  font-weight:600;
+  text-align: right;
+}
+
+.masthead {
   margin: 0 auto;
   width: 900px;
-  text-size:1.25em;
+  text-size:3em;
   font-weight:600;
   text-align: center;
   margin-top:20px;
@@ -16,13 +28,14 @@
   margin: 0 auto;
   width: 900px;
   text-size:2em;
+  font-family: 'Bitter', serif;
 }
 
 
 .headline {
   text-transform:uppercase;
-  font-size:1.5em;
-  font-weight:600;
+  font-size:1em;
+  font-weight:400;
   text-align:center;
   margin-top:20px;
   margin-bottom:0;
