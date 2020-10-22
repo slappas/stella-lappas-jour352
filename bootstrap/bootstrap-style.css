@@ -1,0 +1,33 @@
+.name1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  color: #E63946;
+  text-align:right;
+  font-size: 4.5em;
+  text-transform: uppercase;
+}
+.name2 {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+	font-size: 4.5em;
+	-webkit-text-stroke: 1px #e63946;
+	-webkit-text-fill-color: white;
+  font-weight:800;
+  text-align:right;
+  text-transform: uppercase;
+}
+
+.name3 {font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  color: #E63946;
+  text-align:right;
+  font-size: 4.5em;
+  text-transform: uppercase;
+}
+.name4 {font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  color: #E63946;
+  text-align:right;
+  font-size: 4.5em;
+  text-transform: uppercase;
+}
