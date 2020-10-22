@@ -1,46 +1,21 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
-body {
-  font-family: 'Bitter', serif;
-  color:#444;
-  font-weight:400;
-}
-
-.title {
-  text-size:3em;
-  font-weight:600;
-  text-align: right;
-}
-
 #content {
   margin: 0 auto;
   width: 900px;
   text-size:2em;
 }
 
-.masthead {
-  margin: 0 auto;
-  width: 900px;
-  text-size:5em;
-  font-weight:600;
-  text-align: center;
-  margin-top:20px;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right:0;
-}
-
 p {
-  font-family: 'Bitter', serif;
-  margin: 20px;
+  font-family: georgia, serif;
+  text-size: 20px;
   width: 900px;
-  text-size:1em;
 }
 
-
-.headline {
+h1 {
+  font-family: Georgia, serif;
   text-transform:uppercase;
-  font-size:2em;
+  font-size:20px;
   font-weight:600;
   font-style: italic;
   text-align:center;
@@ -50,8 +25,8 @@ p {
   margin-left:0;
 }
 
-.byline{
-  font-family: 'Bitter', serif;
-  text-align:center;
-  font-size:.75em;
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
 }
