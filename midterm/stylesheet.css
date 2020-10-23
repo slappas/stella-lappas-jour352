@@ -3,9 +3,10 @@
 #content {
   margin: 0 auto;
   width: 900px;
-  text-align: center;
+  text-align: right;
   columns: 100px 1;
-  margin: auto;
+  left: 50%;
+  margin-right: -50%;
 }
 
 p {
