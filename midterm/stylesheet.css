@@ -11,9 +11,7 @@
 .text {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
-  tex-align: right;
-  margin-left: 0 auto;
-  margin-right: 0 auto;
+  text-align: right;
 }
 
 #byline {
