@@ -7,11 +7,18 @@
   columns: 100px 1;
 }
 
+#content p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
 /*paragraphs ps I CANNOT figure out how to center this*/
 .text {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
-  text-align: right;
 }
 
 #byline {
