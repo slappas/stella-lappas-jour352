@@ -3,6 +3,7 @@
 #content {
   margin: 0 auto;
   width: 900px;
+}
 
 p {
   font-family: helvetica, arial, sans-serif;
@@ -21,8 +22,7 @@ h1 {
     font-family: 'Arvo', georgia ,serif;
     text-transform:uppercase;
     font-size:20px;
-    font-weight:600;
-    font-style: italic;
+    font-weight:700;
     text-align: center;
     margin-top:10px;
     margin-bottom:10px;
