@@ -5,13 +5,13 @@
   width: 900px;
   text-align: right;
   columns: 100px 1;
-  left: 50%;
-  margin-right: -50%;
 }
 
 p {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
+  left: 50%;
+  margin-right: -50%;
 }
 
 #byline {
