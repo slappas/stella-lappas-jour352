@@ -5,6 +5,7 @@
   width: 900px;
   text-align: center;
   columns: 100px 1;
+  margin: auto;
 }
 
 p {
@@ -13,7 +14,7 @@ p {
   text-align: center;
 }
 
-#byline {
+.byline {
   font-family: helvetica, arial, sans-serif;
   text-align: center;
   font-size:.75em;
@@ -21,7 +22,7 @@ p {
 
 h1 {
     font-family: 'Arvo', georgia ,serif;
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-size:20px;
     font-weight:700;
     text-align: center;
@@ -30,3 +31,15 @@ h1 {
     margin-right:0;
     margin-left:0;
   }
+
+h2 {
+    font-family: 'Arvo', georgia, serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+figcaption {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 10px;
+}
