@@ -8,10 +8,11 @@
 }
 
 /*paragraphs ps I CANNOT figure out how to center this*/
-p {
+.text {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
-  tex-align: center;
+  tex-align: right;
+  margin:auto;
 }
 
 #byline {
