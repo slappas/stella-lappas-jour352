@@ -14,7 +14,7 @@ p {
   text-align: center;
 }
 
-.byline {
+#byline {
   font-family: helvetica, arial, sans-serif;
   text-align: center;
   font-size:.75em;
