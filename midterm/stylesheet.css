@@ -12,7 +12,8 @@
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
   tex-align: right;
-  margin:auto;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
 }
 
 #byline {
