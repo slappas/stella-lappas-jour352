@@ -2,14 +2,17 @@
 
 #content {
   margin: 0 auto;
-  width: 900px;
   columns: 100px 1;
 }
 
 /*paragraphs ps I CANNOT figure out how to center this*/
-.text {
+p {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px;
 }
 
 #byline {
@@ -37,6 +40,7 @@ h2 {
     text-transform: uppercase;
     font-size: 30px;
     font-weight: 700;
+    text-align: center;
 }
 
 figcaption {
@@ -45,9 +49,8 @@ figcaption {
 }
 
 blockquote {
-font-family: 'arvo', georgia, serif;
-font-size: 18px
-text-transform: capitalize;
+font-family: 'Arvo', georgia, serif;
+font-size: 40px;
 margin-top: 15px;
 margin-bottom: 15px;
 /*this is the same purple as her hair*/
