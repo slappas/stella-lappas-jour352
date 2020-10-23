@@ -6,8 +6,8 @@
   text-size:2em;
 
 p {
-  font-family: 'Lora', georgia ,serif;
-  text-size: 20px;
+  font-family: helvetica, arial, sans-serif;
+  text-size: 12px;
   width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -16,7 +16,7 @@ p {
 }
 
 h1 {
-    font-family: Georgia, serif;
+    font-family: 'Lora', georgia ,serif;
     text-transform:uppercase;
     font-size:20px;
     font-weight:600;
