@@ -23,7 +23,7 @@ p {
 h1 {
     font-family: 'Arvo', georgia ,serif;
     text-transform: uppercase;
-    font-size:20px;
+    font-size:50px;
     font-weight:700;
     text-align: center;
     margin-top:10px;
@@ -35,7 +35,7 @@ h1 {
 h2 {
     font-family: 'Arvo', georgia, serif;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 30px;
     font-weight: 700;
 }
 
