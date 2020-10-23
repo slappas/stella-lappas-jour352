@@ -9,6 +9,7 @@ p {
   font-family: helvetica, arial, sans-serif;
   text-size: 12px;
   width: 900px;
+  font-weight: 700;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -16,12 +17,12 @@ p {
 }
 
 h1 {
-    font-family: 'Lora', georgia ,serif;
+    font-family: 'Arvo', georgia ,serif;
     text-transform:uppercase;
     font-size:20px;
     font-weight:600;
     font-style: italic;
-    text-align:center;
+    text-align: center;
     margin-top:10px;
     margin-bottom:10px;
     margin-right:0;
