@@ -130,7 +130,7 @@ p {
   /* START pull quote */
 .quote {
   font-family: 'Ubuntu', sans-serif;
-  font-size:3em;
+  font-size:2em;
   color:#F40009;
   font-wieght:700;
   text-align:left;
@@ -183,4 +183,6 @@ p {
 }
 
 .gif {
+  padding: auto;
+  margin: auto;
 }
